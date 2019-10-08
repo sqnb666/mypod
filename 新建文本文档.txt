@@ -1,0 +1,12 @@
+cd=检查文件
+ls=列表
+git_init =初始化
+git_config --global_user.name_"..."
+git_config --global_uesr.email_"..."
+git_status=查看状态
+git_add_...... =追踪
+git_commit_-m"....."=提交
+git_log=查看以前版本
+git_reset --hard_xxxx
+git-reflog=查看所有版本
+git push=第二次上传
